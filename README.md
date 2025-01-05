@@ -10,7 +10,7 @@ insert short description here...
 
 #
 <details>
-          <summary><h4> My Programming Journey</h4></summary>
+          <summary><h3> My Programming Journey</h3></summary>
           Insert text here...
 </details>
 
