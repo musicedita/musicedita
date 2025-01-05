@@ -9,7 +9,13 @@ insert short description here...
 <br />
 
 #
-          
+
+<details>
+          <summary><h3> My Programming Journey</h3></summary>
+          Insert text here...
+</details>
+
+
 <!--
 **musicedita/musicedita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
